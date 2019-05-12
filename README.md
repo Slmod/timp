@@ -41,4 +41,4 @@ $ git push -u origin pr2
 
 **Задание 2:**
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/7SH78k6/32.png" alt="32" border="0"></a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/7SH78k6/32.png" alt="32" border="0"></a>
