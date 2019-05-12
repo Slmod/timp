@@ -5,13 +5,13 @@
 Необходимо реализовать функции для работы с односвязным списком.
 Используя реализованные функции реализовать программу, которая:
 
-<a href="https://ibb.co/qJWqgym"><img src="https://i.ibb.co/xFf9gCz/1.png" alt="1" 
+<a href="https://ibb.co/qJWqgym"><img src="https://i.ibb.co/xFf9gCz/1.png" alt="1" border="0"></a><br />
 
 ## Задание 2
 Необходимо реализовать функции для работы с односвязным списком.
 Используя реализованные функции реализовать программу,которая:
 
-<a href="https://ibb.co/KDyfmtV"><img src="https://i.ibb.co/FX7ynQ8/2.png" alt="2" 
+<a href="https://ibb.co/KDyfmtV"><img src="https://i.ibb.co/FX7ynQ8/2.png" alt="2" border="0"></a><br />
 
 ## Ход работы 
 
