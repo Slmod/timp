@@ -21,3 +21,4 @@
 		printf("Sredne-aref=%d \n", s / n); 
 		system("pause");
 	return 0;
+}
