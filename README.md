@@ -31,7 +31,7 @@ $ ./heap_sort
 ```sh
 $ git checkout -b pr7
 $ git add .
-$ git commit -m "Algorithms ю.Sorting 2"
+$ git commit -m "Algorithms Sorting 2"
 $ git push -u origin pr7
 ```
 
