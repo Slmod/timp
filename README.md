@@ -45,4 +45,4 @@ $ git push -u origin pr5
 
 Результаты задания 2 представлены ниже:
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/LxDbSYd/5-3.png" alt="5-3" border="0"></a><br /><a target='_blank' 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/LxDbSYd/5-3.png" alt="5-3" border="0"></a><br /> 
