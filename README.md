@@ -40,8 +40,8 @@ $ git push -u origin pr7
 
 Результаты задания 1 (быстрая сортировка) представлены ниже:
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/qgzzGR3/7.png" alt="7" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>upload image</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/qgzzGR3/7.png" alt="7" border="0"></a><br />
 
 Результаты задания 2 (пиромидальная сортировка) представлены ниже:
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/QrMFwSk/71.png" alt="71" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>upload image</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/QrMFwSk/71.png" alt="71" border="0"></a><br />
