@@ -20,3 +20,4 @@
 		printf("Sum=%d", s);
 		system("pause");
 	return 0;
+}
