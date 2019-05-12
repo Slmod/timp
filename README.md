@@ -41,9 +41,8 @@ $ git push -u origin pr5
 
 Результаты задания 1 представлены ниже:
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/ws80B6S/5-2.png" alt="5-2" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>upload image</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/ws80B6S/5-2.png" alt="5-2" border="0"></a><br /><a target='_blank'
 
 Результаты задания 2 представлены ниже:
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/LxDbSYd/5-3.png" alt="5-3" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>upload image</a><br />
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/LxDbSYd/5-3.png" alt="5-3" border="0"></a><br /><a target='_blank' 
